@@ -4,3 +4,6 @@
 [submodule "Project1"]
 	path = Project1
 	url = https://github.com/LuisenLou/Encryption.git
+[submodule "Project3"]
+	path = Project3
+	url = https://github.com/LuisenLou/OrogenyDataBase.git
